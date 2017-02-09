@@ -1,5 +1,6 @@
 #!/bin/bash
-# usage: ./say.sh CA-5-say.md Thomas Tom 200
+# usage: ./say.sh sample-text-file Thomas Tom 200
+# usage: ./say.sh text-file name_of_fren_speaker name_of_english_speaker speach_rate
 V1=$2
 V2=$3
 R=$4
