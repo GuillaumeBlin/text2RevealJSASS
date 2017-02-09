@@ -1,0 +1,21 @@
+__FR_  permet d'indiquer que le texte doit être lu avec la voix française
+
+__LP_ permet de faire une "longue" pause tandis que __P_ permet de faire une pause plus courte dans la phrase
+
+__NS_ spécifie que c'est une nouvelle section (au sens reveal js)
+
+__NF_ spcifie que c'est un nouveau fragment (au sens de reveal js) au sein de la section courante
+
+__NF_ Il est possible de passer, dans un même fragment, du français à l'anglais en utilisant la balise suivante
+__EN_ and to get back to french by putting back 
+__FR_ et ainsi de suite
+__EN_ and so one
+
+__NS_ Les espaces et 
+
+les sauts
+de lignes
+
+
+
+et donc les lignes vides n'ont pas d'importance
