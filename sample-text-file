@@ -6,6 +6,8 @@ __NS_ spécifie que c'est une nouvelle section (au sens reveal js)
 
 __NF_ spcifie que c'est un nouveau fragment (au sens de reveal js) au sein de la section courante
 
+__EF_ indique un fragment (au sens de reveal js) sans audio
+
 __NF_ Il est possible de passer, dans un même fragment, du français à l'anglais en utilisant la balise suivante
 __EN_ and to get back to french by putting back 
 __FR_ et ainsi de suite
@@ -19,3 +21,5 @@ de lignes
 
 
 et donc les lignes vides n'ont pas d'importance
+
+__ES_ indique une section (au sens de reveal js) sans audio
